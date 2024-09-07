@@ -8,7 +8,7 @@ get - gets all the available users from the DB
 post - creates a new user from the DB - requires name and unique email passed in request body
 
 
--/api/v1/users/{{id}}
+- /api/v1/users/{{id}}
 requires id of the users stored in the db as a request parameter
 
 get - gets the specific user from the db
