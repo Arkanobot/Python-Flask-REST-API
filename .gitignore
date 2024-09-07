@@ -2,3 +2,5 @@
 .env
 
 instance
+__pycache__
+./resource/__pycache__
