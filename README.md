@@ -4,6 +4,7 @@ The methods allowed for the following endpoints are as follows
 
 Endpoint 
 - /api/v1/users
+  
 get - gets all the available users from the DB
 post - creates a new user from the DB - requires name and unique email passed in request body
 
